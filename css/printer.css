@@ -1,0 +1,22 @@
+h1 { font-family: Verdana; font-size: 18px; color: #000099; font-weight: normal; }
+h2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000099; font-weight: bold; margin-top: 0; margin-bottom: 0; line-height: 1; }
+p { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #333333; font-weight: normal; text-decoration: none;line-height:14px; text-align: justify; width: 80%}
+.imagetitle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #112244}
+li { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #333333; line-height: 135%}
+
+.WhereAmI { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF; weight: bold; ; font-weight: bold ; text-decoration: none}
+a {color: #000090;  text-decoration: none;}
+
+.menulevelone { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000080; font-weight: bold ; text-decoration: none;; line-height: normal}
+.menuleveltwo {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #666666; font-weight: normal; text-decoration: none;}
+.menuleveltwo:hover {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000080; font-weight: normal; text-decoration: none}
+
+.readmore {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000080; font-weight: bold; text-decoration: none;}
+.belowtheline {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000080; font-weight: normal; text-decoration: none;}
+
+.NewsTitle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000080; font-weight: bold; text-decoration: none ; width: 65%}
+.NewsText { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #333333;line-height:14px; width: 65%}
+.HorizBar { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #003399; font-weight: bold; text-decoration: none ; visibility: hidden; clip:  rect(   )}
+.fonttext { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #333333; font-weight: normal; text-decoration: none;line-height:14px; text-align: justify; width: 80%}
+.fonttitle { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18px; color: #000099; font-weight: normal; }
+.LastUpdated { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #666666; font-weight: normal; text-decoration: none; }.fontsubtitle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000099; font-weight: bold}
